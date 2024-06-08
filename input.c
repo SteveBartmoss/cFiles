@@ -13,8 +13,8 @@ int main(){
         printf("Puedes pasar, eres mayor");
     }
     else{
-        printf("eres un rancherillo")
+        printf("eres un rancherillo");
     }
-
+    
     return 0;
 }

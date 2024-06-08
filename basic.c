@@ -8,8 +8,8 @@ int main(){
     float altura=1.79;
     double peso=79.68;
     char letra='A'; //almacena un solo caracter
-    char nombre[]='Steve'; //almacena multiples caracteres
-    const float = 3.1416;
+    //char nombre[30]='Steve'; //almacena multiples caracteres
+    const float pi = 3.1416;
 
     bool sesion = false;
 
